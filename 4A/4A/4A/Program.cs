@@ -11,15 +11,23 @@ namespace _4A
         static void Main(string[] args)
         {
             int number = Convert.ToInt32(Console.ReadLine());
-            if (number%2==0 && number > 2)
-            {
-                Console.WriteLine("YES");
-            }
-            else
+            if (number%2!=0)
             {
                 Console.WriteLine("NO");
             }
-            Console.ReadKey();
+            else
+            {
+                if (number == 2)
+                {
+                    Console.WriteLine("NO");
+                }
+                else
+                {
+                    Console.WriteLine("YES");
+                }
+                
+            }
+            
         }
     }
 }
