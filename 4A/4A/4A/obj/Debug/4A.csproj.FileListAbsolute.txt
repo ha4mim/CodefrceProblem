@@ -1,0 +1,7 @@
+D:\CodefrceProblem\4A\4A\4A\bin\Debug\4A.exe.config
+D:\CodefrceProblem\4A\4A\4A\bin\Debug\4A.exe
+D:\CodefrceProblem\4A\4A\4A\bin\Debug\4A.pdb
+D:\CodefrceProblem\4A\4A\4A\obj\Debug\4A.csproj.AssemblyReference.cache
+D:\CodefrceProblem\4A\4A\4A\obj\Debug\4A.csproj.CoreCompileInputs.cache
+D:\CodefrceProblem\4A\4A\4A\obj\Debug\4A.exe
+D:\CodefrceProblem\4A\4A\4A\obj\Debug\4A.pdb
