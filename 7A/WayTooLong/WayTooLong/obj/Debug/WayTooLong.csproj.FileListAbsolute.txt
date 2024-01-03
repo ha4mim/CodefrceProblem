@@ -1,0 +1,7 @@
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\bin\Debug\WayTooLong.exe.config
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\bin\Debug\WayTooLong.exe
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\bin\Debug\WayTooLong.pdb
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\obj\Debug\WayTooLong.csproj.AssemblyReference.cache
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\obj\Debug\WayTooLong.csproj.CoreCompileInputs.cache
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\obj\Debug\WayTooLong.exe
+D:\CodefrceProblem\7A\WayTooLong\WayTooLong\obj\Debug\WayTooLong.pdb
