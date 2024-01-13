@@ -1,0 +1,7 @@
+D:\CodefrceProblem\A. Team\A_Team\obj\Debug\A_Team.csproj.AssemblyReference.cache
+D:\CodefrceProblem\A. Team\A_Team\obj\Debug\A_Team.csproj.CoreCompileInputs.cache
+D:\CodefrceProblem\A. Team\A_Team\bin\Debug\A_Team.exe.config
+D:\CodefrceProblem\A. Team\A_Team\bin\Debug\A_Team.exe
+D:\CodefrceProblem\A. Team\A_Team\bin\Debug\A_Team.pdb
+D:\CodefrceProblem\A. Team\A_Team\obj\Debug\A_Team.exe
+D:\CodefrceProblem\A. Team\A_Team\obj\Debug\A_Team.pdb
